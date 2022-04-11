@@ -1,6 +1,6 @@
 #include<iostream.h>
-     int main()
-  {
+int main() 
+{
    count<<"hello word ";
   return 0;
   }
